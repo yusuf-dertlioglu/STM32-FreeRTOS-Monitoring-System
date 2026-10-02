@@ -1,0 +1,2 @@
+../Core/Src/flash_mem.c:13:6:Settings_Load	16	static
+../Core/Src/flash_mem.c:17:6:Settings_Save	56	static

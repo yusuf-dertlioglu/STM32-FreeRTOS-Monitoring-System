@@ -1,0 +1,7 @@
+../Core/Src/freertos.c:113:6:MPU6050_SetFullScaleRange	5
+../Core/Src/freertos.c:122:6:HAL_GPIO_EXTI_Callback	29
+../Core/Src/freertos.c:241:6:system_data_init	2
+../Core/Src/freertos.c:271:6:Draw_Menu_Page	12
+../Core/Src/freertos.c:363:6:MX_FREERTOS_Init	1
+../Core/Src/freertos.c:413:6:StartDefaultTask	14
+../Core/Src/freertos.c:532:6:StartTask02	15
