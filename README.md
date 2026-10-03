@@ -1,8 +1,10 @@
 # STM32 FreeRTOS Monitoring System
 An embedded monitoring system based on the STM32F401 microcontroller and FreeRTOS. The system combines environmental sensing, vibration monitoring, a graphical user interface, alarm management, and persistent user configuration.
 
+
 ## Demo Video
 [▶️ Watch on YouTube](https://youtu.be/LF1x1wBEexI?si=7tDw7QcG1z8oc_fv)
+
 
 ## System Overview
 <p align="left">
