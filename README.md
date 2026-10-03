@@ -5,7 +5,7 @@ An embedded monitoring system based on the STM32F401 microcontroller and FreeRTO
 [▶️ Watch on YouTube](https://youtu.be/LF1x1wBEexI?si=7tDw7QcG1z8oc_fv)
 
 ## System Overview
-<p align="center">
+<p align="left">
   <img src="docs/images/graph_page.jpeg" width="500">
 </p>
 
