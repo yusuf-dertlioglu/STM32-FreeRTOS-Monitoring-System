@@ -6,19 +6,20 @@ An embedded monitoring system based on the STM32F401 microcontroller and FreeRTO
 ## Demo Video
 [▶️ Watch on YouTube](https://youtu.be/LF1x1wBEexI?si=7tDw7QcG1z8oc_fv)
 
+<br>
 
 ## System Overview
 <p align="left">
   <img src="docs/images/graph_page.jpeg" width="500">
 </p>
 
+<br>
 
 ## Features
 ### Real-Time Operating System
 - Multi-task architecture based on FreeRTOS
 - Separate tasks for sensor acquisition, display updates, user interface handling, and alarm monitoring
 - Mutex-protected access to shared resources
-
 
 ### Sensor Monitoring
 #### BME280
@@ -61,6 +62,8 @@ User-configurable parameters:
 - I²C bus
 - Shared global variables
 
+<br>
+
 ## Hardware
 - STM32F401
 - BME280 Environmental Sensor
@@ -69,10 +72,14 @@ User-configurable parameters:
 - Four push buttons
 - On-board status LED
 
+<br>
+
 ## Software Stack
 - STM32 HAL
 - FreeRTOS
 - C
+
+<br>
 
 ## Demonstrated Concepts
 - Embedded software architecture
