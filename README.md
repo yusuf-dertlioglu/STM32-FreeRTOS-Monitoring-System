@@ -2,7 +2,7 @@
 An embedded monitoring system based on the STM32F401 microcontroller and FreeRTOS. The system combines environmental sensing, vibration monitoring, a graphical user interface, alarm management, and persistent user configuration.
 
 <p align="center">
-  <img src="docs/images/graph_page.jpeg" width="350">
+  <img src="docs/images/graph_page.jpeg" width="500">
 </p>
 
 
